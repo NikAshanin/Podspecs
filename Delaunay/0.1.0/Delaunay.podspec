@@ -2,7 +2,6 @@ Pod::Spec.new do |s|
   s.name             = 'Delaunay'
   s.version          = '0.1.0'
   s.summary          = 'A swift representation for triangulation of Delaunay.'
-  s.homepage         = 'https://github.com/NikAshanin/Delaunay'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
